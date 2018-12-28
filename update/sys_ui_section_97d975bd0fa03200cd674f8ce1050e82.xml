@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="97d975bd0fa03200cd674f8ce1050e82" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
@@ -137,7 +136,6 @@
             <sys_created_on>2017-01-26 21:55:52</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>97d975bd0fa03200cd674f8ce1050e82</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_58872_needit_needit</sys_name>
